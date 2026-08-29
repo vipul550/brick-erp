@@ -1,0 +1,4 @@
+/storage/data/*.json
+/storage/uploads/*
+!/storage/data/.gitkeep
+!/storage/uploads/.gitkeep

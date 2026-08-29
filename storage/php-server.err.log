@@ -1,0 +1,49 @@
+[Mon Aug 24 12:00:41 2026] PHP 8.4.24 Development Server (http://0.0.0.0:8080) started
+[Mon Aug 24 12:00:42 2026] 127.0.0.1:54482 Accepted
+[Mon Aug 24 12:00:42 2026] 127.0.0.1:54482 [200]: GET /
+[Mon Aug 24 12:00:42 2026] 127.0.0.1:54482 Closing
+[Mon Aug 24 12:01:11 2026] 127.0.0.1:56624 Accepted
+[Mon Aug 24 12:01:11 2026] 127.0.0.1:56624 [200]: GET /?route=sync
+[Mon Aug 24 12:01:11 2026] 127.0.0.1:56624 Closing
+[Mon Aug 24 12:01:11 2026] 127.0.0.1:56625 Accepted
+[Mon Aug 24 12:01:11 2026] 127.0.0.1:56625 [302]: POST /
+[Mon Aug 24 12:01:11 2026] 127.0.0.1:56625 Closing
+[Mon Aug 24 12:01:11 2026] 127.0.0.1:56626 Accepted
+[Mon Aug 24 12:01:11 2026] 127.0.0.1:56626 [200]: GET /?route=sync&session=ad627ce3df60203e&token=b36f66bf00f35a8f910887b38989db4cab7980fe237ac6a7
+[Mon Aug 24 12:01:11 2026] 127.0.0.1:56626 Closing
+[Mon Aug 24 12:01:11 2026] 127.0.0.1:56627 Accepted
+[Mon Aug 24 12:01:11 2026] 127.0.0.1:56627 [200]: GET /?route=sync-api&action=pull&session=ad627ce3df60203e&token=b36f66bf00f35a8f910887b38989db4cab7980fe237ac6a7
+[Mon Aug 24 12:01:11 2026] 127.0.0.1:56627 Closing
+[Mon Aug 24 12:01:47 2026] 127.0.0.1:56631 Accepted
+[Mon Aug 24 12:01:47 2026] 127.0.0.1:56631 [404]: GET /assets/qrcode.js - No such file or directory
+[Mon Aug 24 12:01:47 2026] 127.0.0.1:56631 Closing
+[Mon Aug 24 12:02:13 2026] 127.0.0.1:56636 Accepted
+[Mon Aug 24 12:02:13 2026] 127.0.0.1:56636 [200]: GET /assets/qrcode.js
+[Mon Aug 24 12:02:13 2026] 127.0.0.1:56636 Closing
+[Mon Aug 24 12:02:13 2026] 127.0.0.1:56637 Accepted
+[Mon Aug 24 12:02:13 2026] 127.0.0.1:56637 [302]: POST /
+[Mon Aug 24 12:02:13 2026] 127.0.0.1:56637 Closing
+[Mon Aug 24 12:02:13 2026] 127.0.0.1:56638 Accepted
+[Mon Aug 24 12:02:13 2026] 127.0.0.1:56638 [200]: GET /?route=sync&session=eae6a85d43b26c19&token=96a78a2b740a134785803ddaa3249f541b328a23a1f7cfd6
+[Mon Aug 24 12:02:13 2026] 127.0.0.1:56638 Closing
+[Mon Aug 24 12:03:02 2026] 127.0.0.1:63723 Accepted
+[Mon Aug 24 12:03:02 2026] 127.0.0.1:63723 [200]: GET /
+[Mon Aug 24 12:03:02 2026] 127.0.0.1:63723 Closing
+[Mon Aug 24 12:03:02 2026] 127.0.0.1:53852 Accepted
+[Mon Aug 24 12:03:02 2026] 127.0.0.1:53852 [200]: GET /style.css
+[Mon Aug 24 12:03:02 2026] 127.0.0.1:53852 Closing
+[Mon Aug 24 12:03:02 2026] 127.0.0.1:59167 Accepted
+[Mon Aug 24 12:03:02 2026] 127.0.0.1:59167 [200]: GET /favicon.ico
+[Mon Aug 24 12:03:02 2026] 127.0.0.1:59167 Closing
+[Mon Aug 24 12:03:02 2026] 127.0.0.1:52843 Accepted
+[Mon Aug 24 12:03:05 2026] 127.0.0.1:52843 [200]: GET /?route=sync
+[Mon Aug 24 12:03:05 2026] 127.0.0.1:52843 Closing
+[Mon Aug 24 12:03:05 2026] 127.0.0.1:58990 Accepted
+[Mon Aug 24 12:03:05 2026] 127.0.0.1:58990 [200]: GET /style.css
+[Mon Aug 24 12:03:05 2026] 127.0.0.1:58990 Closing
+[Mon Aug 24 12:03:05 2026] 127.0.0.1:60374 Accepted
+[Mon Aug 24 12:03:05 2026] 127.0.0.1:60374 [200]: GET /favicon.ico
+[Mon Aug 24 12:03:05 2026] 127.0.0.1:60374 Closing
+[Mon Aug 24 12:03:06 2026] 127.0.0.1:59526 Accepted
+[Mon Aug 24 12:05:26 2026] 127.0.0.1:59526 Closed without sending a request; it was probably just an unused speculative preconnection
+[Mon Aug 24 12:05:26 2026] 127.0.0.1:59526 Closing
